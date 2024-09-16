@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(153, 236, 164);
+}
+.text1{
+    font-size: 18px;
+}
+.text2{
+    font-size: 27px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
